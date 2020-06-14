@@ -1,4 +1,4 @@
-#COMMANDS
+# COMMANDS
 - (prefix)dm [@Mention Role] [TEXT]
 
 #SUPPORT
@@ -8,5 +8,5 @@ Set token in .env
 Set prefix in index.js (line 22)
 ```
 
-#CREDITS
+# CREDITS
 At least leave my credits, show some support for creators.
